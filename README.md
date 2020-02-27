@@ -4,6 +4,8 @@ very simple webshell manager (wip)
 
 # how to install:
 
+git clone https://github.com/empty-head/wsman.git
+
 sudo pip3 install -r requirements.txt
 
 
